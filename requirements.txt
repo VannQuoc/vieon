@@ -1,0 +1,14 @@
+flask
+threading
+json
+time
+requests
+random
+telebot
+os
+uuid
+multiprocessing
+subprocess
+sys
+zlib
+base64
